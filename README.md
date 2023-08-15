@@ -12,5 +12,5 @@ A simple Shazam clone using ShazamKit, built with SwiftUI.
 
 # Tools
 
-1. ShazamKit: Lets you enrich your app experience with audio recognition
-2. SwiftUI: UI Toolkit for building user interfaces in a declarative way.
+1. [ShazamKit](https://developer.apple.com/shazamkit/): Lets you enrich your app experience with audio recognition
+2. [SwiftUI](https://developer.apple.com/xcode/swiftui/): UI Toolkit for building user interfaces in a declarative way.
